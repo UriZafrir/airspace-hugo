@@ -21,26 +21,26 @@ about:
 
 
 ########################## featured service ############################
-featured_service:
-  enable : true
-  service_item:
-    # featured service item loop
-    - name : "Interface Design"
-      icon : "fas fa-flask"
-      color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+# featured_service:
+#   enable : true
+#   service_item:
+#     # featured service item loop
+#     - name : "Interface Design"
+#       icon : "fas fa-flask"
+#       color : "primary"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "fas fa-leaf"
-      color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+#     # featured service item loop
+#     - name : "Product Branding"
+#       icon : "fas fa-leaf"
+#       color : "primary-dark"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
-    # featured service item loop
-    - name : "Game Development"
-      icon : "fas fa-lightbulb"
-      color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+#     # featured service item loop
+#     - name : "Game Development"
+#       icon : "fas fa-lightbulb"
+#       color : "primary-darker"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
 
 ############################# Service ###############################
