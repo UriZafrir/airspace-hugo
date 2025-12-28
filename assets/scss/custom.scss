@@ -1,0 +1,18 @@
+.service .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.service .col-sm-6.col-md-3 {
+  display: flex;
+}
+
+.service-item {
+  flex: 1;
+}
+
+.service .section-title {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}

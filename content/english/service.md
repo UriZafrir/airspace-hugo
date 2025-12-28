@@ -52,22 +52,22 @@ service:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
       name: Architecting to your needs
-      content: ""
+      content: "Less is sometimes more. Simplicity beats complexity"
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
       name: We choose the best tools for the job
-      content: ""
+      content: "Intimate knowledge of open source tools allows us to pick the tools that fit your needs"
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
-      name: Leverage our experience
-      content: ""
+      name: Infrastructure as code & Gitops
+      content: "The code is the documentation"
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
       name: We transfer our knowledge
-      content: ""
+      content: "Because we want our customer to succeed"
 
     # service item loop
     - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
@@ -76,8 +76,8 @@ service:
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Infrastructure as code & Gitops
-      content: ""
+      name: Security mindset
+      content: "We know how attackers think"
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
@@ -86,8 +86,8 @@ service:
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-      name: Security mindset
-      content: ""
+      name: Leverage our experience
+      content: "We are here to help"
 
 ############################# call to action #################################
 cta:
