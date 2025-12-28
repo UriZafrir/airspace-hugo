@@ -47,48 +47,47 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "Having built infrastructure on multiple clouds, on-premises, hybrid and edge environments, we learned a few lessons."
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Architecting to your needs
+      content: ""
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: We choose the best tools for the job
+      content: ""
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Leverage our experience
+      content: ""
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: We transfer our knowledge
+      content: ""
 
     # service item loop
     - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Kubernetes is the standard. We know why.
+      content: "Containers allow organization to create maintainable applications"
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Infrastructure as code & Gitops
+      content: ""
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Observability planning and implementation
+      content: "What cannot be measured does not exist"
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Security mindset
+      content: ""
 
 ############################# call to action #################################
 cta:
