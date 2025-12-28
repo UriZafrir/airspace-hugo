@@ -135,4 +135,10 @@
 {{ end }}
 <!-- /funfacts -->
 
+<!-- contact -->
+{{ if .Params.contact.enable }}
+{{ partial "contact.html" . }}
+{{ end }}
+<!-- /contact -->
+
 {{ end }}
