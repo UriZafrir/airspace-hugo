@@ -14,9 +14,10 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "We REALLY Like Linux, Kubernetes, and Cloud computing"
+  title: "About Us"
   description: ""
-  content: "Infrastructure has evolved from bare metal, to virtual machines, to containers. We are here to help you navigate this evolution and build the next generation of cloud and cloud native infrastructure."
+  content: "Having worked with organizations across industries, on multiple cloud and on-premises environments, we design and deliver end-to-end modern cloud and cloud-native solutions—helping businesses plan effectively, execute with confidence, and achieve their goals.
+"
   image: "images/wrapper-img.png"
 
 

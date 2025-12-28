@@ -25,11 +25,6 @@
 <!-- /banner -->
 
 
-<!-- service -->
-{{ if .Params.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
 
 <!-- about -->
 {{ with .Params.about }}
@@ -57,6 +52,12 @@
 {{ end }}
 {{ end }}
 <!-- /about -->
+
+<!-- service -->
+{{ if .Params.service.enable }}
+{{ partial "service.html" . }}
+{{ end }}
+<!-- /service -->
 
 <!-- portfolio -->
 {{ with .Params.portfolio }}
