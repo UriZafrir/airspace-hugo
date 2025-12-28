@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Devops. Redefined."
+  title: "Devops. Redefined. Cloud Native."
   content: "Let's Build the Next Generation of Cloud and Cloud Native Infrastructure"
   button:
     enable: true
