@@ -53,19 +53,13 @@
 {{ end }}
 <!-- /about -->
 
-<!-- service -->
-{{ if .Params.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
-
 <!-- portfolio -->
 {{ with .Params.portfolio }}
 {{ if .enable }}
 <section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-12 col-sm-12">
         {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}
@@ -79,7 +73,13 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /portfolio -->
+<!-- /portfolio --> 
+
+<!-- service -->
+{{ if .Params.service.enable }}
+{{ partial "service.html" . }}
+{{ end }}
+<!-- /service -->
 
 
 <!-- call to action -->

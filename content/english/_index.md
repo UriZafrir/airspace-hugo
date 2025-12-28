@@ -24,13 +24,13 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
+  bg_image: ""
   title: "Some of the questions we can answer"
   content: "
 When developing new software, organizations face a series of critical questions: <br/> should we use the public cloud? If so which one? <br/> Which cloud services should we use and how? <br/> How should we build and package our applications? <br/> If using containers, how do we build our kubernetes stack? <br/> Should we use managed services or not? <br/> How to create a reliable continuous deployment process? <br/> Which open source tools should we use and why? <br/> How to implement monitoring and logging? How to scale? <br/> How to implement everything in a cost effective way? <br/>
 If you’re facing any of these challenges, we’re here to help. "
   button:
-    enable: true
+    enable: false
     label: "View Works"
     link: "project/"
 
