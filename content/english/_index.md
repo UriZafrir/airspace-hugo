@@ -18,7 +18,7 @@ about:
   description: ""
   content: "Having worked with organizations across industries, on multiple cloud and on-premises environments, we design and deliver end-to-end modern cloud and cloud-native solutions—helping businesses plan effectively, execute with confidence, and achieve their goals.
 "
-  image: "images/wrapper-img.png"
+  image: ""
 
 
 ######################### Portfolio ###############################
