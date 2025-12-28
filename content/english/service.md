@@ -1,6 +1,6 @@
 ---
-title: "Service"
-description: "this is meta description"
+title: "Our Services"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
+  title : "These are the questions we can answer"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
           officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
